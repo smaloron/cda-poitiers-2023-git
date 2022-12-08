@@ -1,4 +1,4 @@
 intro git
 lien vers page contact
-modif
+modif depuis la navbar
 Intégration de la navbar dans index
